@@ -9,7 +9,7 @@
 ![PWA](https://img.shields.io/badge/PWA-ready-5FD98A?style=flat-square)
 ![Made with](https://img.shields.io/badge/made%20with-%E2%98%95-F0705C?style=flat-square)
 
-![Day Light preview](./screenshots/banner.png)
+![Day Light Preview](./Image.png)
 
 </div>
 
@@ -37,14 +37,11 @@
 | 🕋 | واجهة عربية RTL بالكامل من الصفر |
 
 ## 📸 لقطات من التطبيق
+## 📸 معاينة التطبيق
 
-<table>
-<tr>
-<td align="center"><img src="./screenshots/home.png" width="260"/><br/><sub>الرئيسية</sub></td>
-<td align="center"><img src="./screenshots/checkin.png" width="260"/><br/><sub>تسجيل اليوم</sub></td>
-<td align="center"><img src="./screenshots/solution.png" width="260"/><br/><sub>اختيار الحل</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./Image.png" alt="Day Light Preview" width="100%" />
+</p>
 
 ## 🚀 عايز تجربه؟
 
